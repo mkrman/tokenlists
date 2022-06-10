@@ -36,6 +36,14 @@
     },
      {
       "chainId": 43114,
+      "address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+      "decimals": 18,
+      "name": "Tomb",
+      "symbol": "TOMB",
+      "logoURI": "https://raw.githubusercontent.com/mkrman/zswap-tokens/main/assets/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1/logo.png"
+    },
+     {
+      "chainId": 43114,
       "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
       "decimals": 18,
       "name": "USDC.e",
