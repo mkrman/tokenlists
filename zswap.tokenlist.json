@@ -1,6 +1,6 @@
 {
   "name": "ZSwap Tokenlist",
-  "logoURI": "https://raw.githubusercontent.com/mkrman/zswap-tokens/main/assets/0xC23a0C962C61281F450c282A2EEBbA080Ceeedc7/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/mkrman/zswap-tokens/main/assets/0xA0105D7fc6190598523f568001A71164341b0A22/logo.png",
   "keywords": [
   ],
   "version": {
@@ -20,19 +20,19 @@
     },
     {
       "chainId": 43114,
-      "address": "0xC23a0C962C61281F450c282A2EEBbA080Ceeedc7",
+      "address": "0xA0105D7fc6190598523f568001A71164341b0A22",
       "decimals": 18,
       "name": "Subzero",
       "symbol": "SUBZERO",
-      "logoURI": "https://raw.githubusercontent.com/mkrman/zswap-tokens/main/assets/0xC23a0C962C61281F450c282A2EEBbA080Ceeedc7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mkrman/zswap-tokens/main/assets/0xA0105D7fc6190598523f568001A71164341b0A22/logo.png"
     },
      {
       "chainId": 43114,
-      "address": "0xf3155aaA8e4109575b66370500c8e3d54349F37B",
+      "address": "0xF5b1A0d66856CBF5627b0105714a7E8a89977349",
       "decimals": 18,
       "name": "ZShare",
       "symbol": "ZSHARE",
-      "logoURI": "https://raw.githubusercontent.com/mkrman/zswap-tokens/main/assets/0xf3155aaA8e4109575b66370500c8e3d54349F37B/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/mkrman/zswap-tokens/main/assets/0xF5b1A0d66856CBF5627b0105714a7E8a89977349/logo.png"
     },
      {
       "chainId": 43114,
